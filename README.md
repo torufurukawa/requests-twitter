@@ -1,6 +1,10 @@
 # requests-twitter
 Twitter support for Python Requests
 
+## Requirements
+
+- Python 3.5 or later
+
 ## Example
 
 ```
