@@ -1,6 +1,8 @@
 # requests-twitter
 Twitter support for Python Requests
 
+[![Build Status](https://travis-ci.org/torufurukawa/requests-twitter.svg?branch=master)](https://travis-ci.org/torufurukawa/requests-twitter)
+
 ## Requirements
 
 - Python 3.5 or later
