@@ -2,7 +2,9 @@
 import requests
 from requests_oauthlib import OAuth1
 
+__version__ = "0.1.0"
 _DEFAULT_SERVER = "https://api.twitter.com"
+
 
 
 class Auth(OAuth1):
